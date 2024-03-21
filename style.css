@@ -2,3 +2,20 @@ html {
   height: 100%;
   width: 100%;
 }
+
+h1 {
+  color: purple;
+}
+body {
+  background-color: black;
+}
+
+#carte
+{
+
+  width: 300px;
+  margin: 0 auto;
+  background-color: beige;
+  text-align: center;
+  align-content: center;
+  
